@@ -1,10 +1,10 @@
 # Mapping_Earthquakes
 
 ### Tools used in project
-JavaScript
-HTML
-Leaftlet
-CSS
+**JavaScript**  
+**HTML**  
+**Leaftlet**  
+**CSS**
 
 ## Summary
 In this project, we are mapping earthquakes over the past week. There are three maps to choose from: streets, satellite, and dark. There are also three overlays to choose over the map: all earthquakes, earthquakes over a magnitude of 4.5, and the tectonic plates.
